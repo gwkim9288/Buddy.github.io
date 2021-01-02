@@ -17,8 +17,8 @@ lang: en-US
 title: My Awesome Site
 email:
 description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: ""# the optional subpath of your site, e.g. "/blog"
+url: "http://Buddy.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name:
   twitter:
@@ -83,3 +83,5 @@ defaults:
     values:
       layout: post
       read_time: true
+      
+remote_theme : mmistakes/jekyll-theme-basically-basic
